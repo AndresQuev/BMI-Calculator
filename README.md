@@ -18,9 +18,6 @@ A clean and modern BMI (Body Mass Index) calculator built with **SwiftUI**, foll
 - SF Symbols
 - iOS System Colors
 
-## 📸 Screenshots
-_(Add simulator screenshots here)_
-
 ## 🚀 Future Improvements
 - BMI history (CoreData)
 - Unit conversion (kg/lb)
@@ -30,6 +27,8 @@ _(Add simulator screenshots here)_
 ## 👤 Author
 **Andrés Quevedo**  
 iOS Developer
+
+## 📸 Screenshots
 <img width="453" height="951" alt="Screenshot 2025-12-19 at 10 51 11 AM" src="https://github.com/user-attachments/assets/9a436546-240b-4a7f-968b-1c3e5ef57dbe" />
 <img width="485" height="952" alt="Screenshot 2025-12-19 at 10 51 19 AM" src="https://github.com/user-attachments/assets/56d3c510-feb4-44a9-9c36-8d3b2290fb7e" />
 <img width="463" height="946" alt="Screenshot 2025-12-19 at 10 51 48 AM" src="https://github.com/user-attachments/assets/20f3a235-bf66-423a-ac25-76a3dfffe800" />
